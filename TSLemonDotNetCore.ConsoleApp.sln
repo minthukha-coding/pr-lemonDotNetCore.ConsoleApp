@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSLemonDotNetCore.ConsoleApp", "TSLemonDotNetCore.ConsoleApp\TSLemonDotNetCore.ConsoleApp.csproj", "{99D6C049-8132-42A9-B201-EC9F9C97020C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LemonPricticeDotNetCore.ConsoleApp", "TSLemonDotNetCore.ConsoleApp\LemonPricticeDotNetCore.ConsoleApp.csproj", "{99D6C049-8132-42A9-B201-EC9F9C97020C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

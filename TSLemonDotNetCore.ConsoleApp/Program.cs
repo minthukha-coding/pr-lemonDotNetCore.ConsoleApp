@@ -25,6 +25,7 @@ SqlCommand command = new SqlCommand(query, connection);
 SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(command);
 DataTable dt = new DataTable();
 sqlDataAdapter.Fill(dt);    
+Console.Write(dt.ToString());
 
 connection.Close();
 Console.WriteLine("Connection is closed");
